@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CS3130-BonusAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="CategoryButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">#ECECEC</item>
+        <item name="android:textColor">#000</item>
+    </style>
+</resources>
